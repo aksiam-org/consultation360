@@ -1,144 +1,147 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌿 *AKSIAM · CONSULTATION 360°* 🌿
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🌿 AKSIAM · Consultation 360°
 
-🇫🇷 *Notre communauté, notre voix, notre avenir*
-🇲🇬 *Ny fiarahamonina, ny feontsika, ny hoavintsika*
-🇬🇧 *Our community, our voice, our future*
+> **Notre communauté, notre voix, notre avenir**
+> *Ny fiarahamonina, ny feontsika, ny hoavintsika · Our community, our voice, our future*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔍 *POURQUOI CETTE CONSULTATION ?*
-*NAHOANA IZY IO ? · WHY THIS?*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 **Page en ligne :** [aksiam-org.github.io/consultation360](https://aksiam-org.github.io/consultation360/)
+📋 **Formulaire de participation :** [recensement-khoja.vercel.app](https://recensement-khoja.vercel.app/)
 
-Notre recensement a répondu à :
-❓ *« Qui sommes-nous ? »*
+---
 
-La Consultation 360° va plus loin :
-💬 *« Comment vivons-nous aujourd'hui ?*
-       *Quels sont nos besoins pour demain ? »*
+## 📖 À propos
 
-🇲🇬 _Ny Consultation 360° dia manontany hoe ahoana no fiainana ankehitriny sy inona no ilaintsika ho an'ny hoavy._
-🇬🇧 _The 360° Consultation asks how we live today and what we need for tomorrow._
+La **Consultation 360°** est une démarche communautaire initiée par **AKSIAM** (Association Khoja Shia Ithna Asheri de Madagascar) afin de disposer d'une connaissance approfondie, objective et actualisée de sa communauté.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎯 *NOS OBJECTIFS · TANJONA · GOALS*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Après le recensement qui a répondu à **« Qui sommes-nous ? »**, la Consultation 360° cherche à répondre à :
 
-✅ Mieux connaître la structure de notre communauté
-✅ Identifier les besoins prioritaires des familles
-✅ Entendre toutes les générations
-✅ Identifier nos défis actuels et futurs
-✅ Guider les décisions stratégiques d'AKSIAM
-✅ Mieux allouer les ressources communautaires
-✅ Créer de nouveaux programmes adaptés à nos besoins
+> 💬 *« Comment vivons-nous aujourd'hui et quels sont nos besoins pour demain ? »*
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👥 *QUI PEUT PARTICIPER ?*
-*IZA NO AFAKA MANDRAY ANJARA ?*
-*WHO CAN PARTICIPATE?*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🏠 *Chefs de famille* · _Tompon-trano · Household heads_
-   → Vision globale du foyer + mise à jour recensement
+## 🎯 Objectifs
 
-💑 *Conjoint(e)s* · _Vady · Spouses & partners_
-   → Perception complémentaire de la réalité familiale
+- Mettre à jour les connaissances sur la structure de la communauté
+- Identifier les besoins prioritaires des familles
+- Mesurer les attentes des différentes générations
+- Identifier les défis actuels et futurs
+- Développer des indicateurs de suivi communautaire
+- Constituer une base de référence pour les futures équipes dirigeantes
+- Favoriser une meilleure allocation des ressources communautaires
+- Soutenir la conception de nouveaux programmes et services
 
-🌟 *Jeunes de 14 à 30 ans* · _Tanora 14–30 taona · Youth_
-   → Vos aspirations, vos défis, votre avenir !
+---
 
-📌 Chaque famille reçoit un *identifiant unique*
+## 👥 Qui peut participer ?
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📋 *CE QU'ON VA EXPLORER*
-*NY HANADIHADIANA · WHAT WE EXPLORE*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Public | Malagasy | English |
+|--------|----------|---------|
+| 🏠 Chefs de famille | Tompon-trano | Household heads |
+| 💑 Conjoint(e)s | Vady | Spouses & partners |
+| 🌟 Jeunes (14–30 ans) | Tanora 14–30 taona | Youth aged 14–30 |
 
-👥  Démographie · Mponina · Population
-📖  Éducation · Fampianarana · Education
-❤️  Santé · Fahasalamana · Health
-🌾  Économie & Emploi · Toe-karena · Economy
-⭐  Jeunesse · Tanora · Youth
-🌿  Seniors · Olon-dehibe · Elders
-🥁  Culture & Identité · Kolontsaina · Culture
-🤝  Solidarité · Fifanampiana · Solidarity
+> 📌 Chaque famille reçoit un **identifiant unique** — participation 100% anonyme et confidentielle.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🗓️ *CALENDRIER · FOTOANA · TIMELINE*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🟢 *Démarrage :* Début Novembre 2025
-🔴 *Clôture :* Fin Septembre 2026
+## 📋 Les 8 thèmes explorés
 
-📌 *Phase 1* — Préparation & conception · Nov – Mars
-📌 *Phase 2* — Tests & ajustements · Mars
-📌 *Phase 3* — Communication & mobilisation · Avr – Mai
-📌 *Phase 4* — Formation des enquêteurs · Début Mai
-📌 *Phase 5* — 🔥 *COLLECTE DES DONNÉES* · Mai – Juil
-   _→ C'est là que VOTRE participation compte !_
-📌 *Phase 6* — Contrôle qualité · Juillet
-📌 *Phase 7* — Analyse des résultats · Juil – Août
-📌 *Phase 8* — Rédaction des rapports · Août
-📌 *Phase 9* — 🎤 Restitution finale · Septembre 2026
+| | Thème | Malagasy | English |
+|-|-------|----------|---------|
+| 👥 | Démographie | Mponina | Demographics |
+| 📖 | Éducation | Fampianarana | Education |
+| ❤️ | Santé | Fahasalamana | Health |
+| 🌾 | Économie | Toe-karena | Economy |
+| ⭐ | Jeunesse | Tanora | Youth |
+| 🌿 | Seniors | Olon-dehibe | Elders |
+| 🥁 | Culture | Kolontsaina | Culture |
+| 🤝 | Solidarité | Fifanampiana | Solidarity |
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🛡️ *VOS DONNÉES SONT EN SÉCURITÉ*
-*VOARO NY ANGONA · YOUR DATA IS SAFE*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-🔒 Anonymisation totale — aucun nom publié
-🔑 Accès strictement limité aux personnes autorisées
-🎯 Données utilisées uniquement pour ce projet
-📋 Charte de confidentialité signée par tous
-🗑️ Suppression des données après restitution finale
+## 🗓️ Calendrier du projet
 
-✅ _Votre participation est 100% anonyme et confidentielle_
-✅ _Manampotika sy voarindrina · Anonymous & confidential_
+**Démarrage :** Début Novembre 2025 · **Clôture :** Fin Septembre 2026
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 *COMMENT PARTICIPER ?*
-*AHOANA NO MANDRAY ANJARA ?*
-*HOW TO PARTICIPATE?*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| Phase | Description | Période |
+|-------|-------------|---------|
+| 01 | Préparation & conception | Novembre – Mars |
+| 02 | Tests & ajustements | Mars |
+| 03 | Communication & mobilisation | Avril – Mai |
+| 04 | Formation des enquêteurs | Début Mai |
+| **05** | 🔥 **Collecte des données** | **Mai – Juillet** |
+| 06 | Contrôle qualité | Juillet |
+| 07 | Analyse des résultats | Juillet – Août |
+| 08 | Rédaction des rapports | Août |
+| 09 | 🎤 Restitution finale | Septembre 2026 |
 
-👆 *Formulaire en ligne :*
-🔗 https://recensement-khoja.vercel.app/
+---
 
-🌐 *Guide complet du projet :*
-🔗 https://aksiam-org.github.io/consultation360
-_→ Toutes les infos, les thèmes, le calendrier et la sécurité de vos données_
+## 🛡️ Sécurité & Confidentialité des données
 
-Ou par :
-1️⃣ Enquêteur — accompagnement en personne
-2️⃣ Téléphone — assistance disponible
+La protection des données est une **priorité absolue** du projet.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧕 *BESOIN D'AIDE ? CONTACTEZ-NOUS*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- 🔒 **Anonymisation totale** — aucun nom publié ni partagé
+- 🔑 **Accès limité** — comptes KoboToolbox individualisés, charte signée
+- 🗄️ **Stockage sécurisé** — serveurs KoboToolbox, fichiers intermédiaires supprimés
+- 🎯 **Usage exclusif** — données utilisées uniquement pour ce projet
+- 📋 **Charte de confidentialité** — signée par tous les acteurs
+- 🗑️ **Suppression après restitution** — toutes les données brutes supprimées en fin de projet
 
-👤 *Charmine ROSSANALY*
-📱 WhatsApp : *+261 34 26 90711*
-✉️ r-charmine@hotmail.fr
+> ✅ *Votre participation est 100% anonyme et confidentielle*
+> *Manampotika sy voarindrina ny fandraisana anjara · Anonymous & confidential*
 
-🏢 *Secrétariat AKSIAM*
-✉️ secretariat@aksiam.mg
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💚 *VOTRE VOIX COMPTE !*
-*NY FEONTSIKA MANAN-DANJA !*
-*YOUR VOICE MATTERS!*
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🚀 Comment participer ?
 
-Chaque réponse construit l'avenir de notre communauté.
-_Ny valiny tsirairay dia mandrindra ny hoavin'ny fiarahamonintsika._
-_Every answer shapes our community's future._
+**En ligne (autonome) :**
+👉 [recensement-khoja.vercel.app](https://recensement-khoja.vercel.app/)
 
-🌿 *AKSIAM* · Consultation 360°
-🤝 En partenariat avec *IISS ONG*
+**Avec accompagnement :**
+- 👤 Par un enquêteur en personne
+- 📞 Par assistance téléphonique
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📌 *Partagez ce message avec vos proches !*
-_Zarao amin'ny hafa ity hafatra ity!_
-_Share this with your family & friends!_
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+## 📞 Contact
+
+**🧕 Charmine ROSSANALY** *(Responsable)*
+- 📱 WhatsApp : [+261 34 26 90711](https://wa.me/261342690711)
+- ✉️ [r-charmine@hotmail.fr](mailto:r-charmine@hotmail.fr)
+
+**🏢 Secrétariat AKSIAM**
+- ✉️ [secretariat@aksiam.mg](mailto:secretariat@aksiam.mg)
+
+---
+
+## 🤝 Partenaires
+
+| | Organisation | Rôle |
+|-|-------------|------|
+| 🌿 | **AKSIAM** | Porteur du projet |
+| 🔬 | **IISS ONG** | Partenaire technique (méthodologie, KoboToolbox, analyse, rapports) |
+
+---
+
+## 📁 Structure du dépôt
+
+```
+consultation360/
+└── index.html      # Page web complète (autonome, logos embarqués)
+└── README.md       # Ce fichier
+```
+
+---
+
+## 🌍 Langues
+
+Ce projet est trilingue :
+
+- 🇫🇷 **Français** — langue principale
+- 🇲🇬 **Malagasy** — langue locale
+- 🇬🇧 **English** — langue internationale
+
+---
+
+*© 2025 AKSIAM · Association Khoja Shia Ithna Asheri de Madagascar · Tous droits réservés*
+*Zon'ny tompon'asa rehetra voarindrina*
