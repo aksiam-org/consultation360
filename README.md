@@ -2,7 +2,7 @@
 
 > **Notre communauté, notre voix, notre avenir**
 > 
-> *Ny fiarahamonina, ny feontsika, ny hoavintsika*
+> *Ny fiarahamonina, ny feontsika, ny hoavintsika . *
 > *Our community, our voice, our future*
 
 🌐 **Page en ligne :** [aksiam-org.github.io/consultation360](https://aksiam-org.github.io/consultation360/)
