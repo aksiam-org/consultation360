@@ -108,7 +108,7 @@ La protection des données est une **priorité absolue** du projet.
 ## 📞 Contact
 
 **🧕 Charmine ROSSANALY** *(Responsable)*
-- 📱 WhatsApp : [+261 34 26 90711](https://wa.me/261342690711)
+- 📱 WhatsApp : [[+261 34 42 330 13](https://wa.me/261344233013)](https://wa.me/261344233013)
 - ✉️ [r-charmine@hotmail.fr](mailto:r-charmine@hotmail.fr)
 
 **🏢 Secrétariat AKSIAM**
